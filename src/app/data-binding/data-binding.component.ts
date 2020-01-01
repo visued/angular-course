@@ -11,6 +11,7 @@ export class DataBindingComponent implements OnInit {
   valorSalvo: string = '';
   isMouseOver: boolean = false;
 
+
   botaoClicado() {
     alert('Botao foi clicado!')
   }
